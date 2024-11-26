@@ -1,5 +1,6 @@
 {
     "name": "aleks/laravel-conditions",
+    "description":"laravel-conditions",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -21,7 +22,7 @@
     "extra": {
   "laravel": {
     "providers": [
-      "Aleksv\\LaravelConditions\\Providers\\ConditionServiceProvider"
+      "Aleks\\LaravelConditions\\Providers\\ConditionServiceProvider"
     ]
   }
 }
